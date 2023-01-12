@@ -1,0 +1,9 @@
+[package]
+name = "advent-of-code-2022"
+version = "0.1.0"
+authors = ["James Goodall"]
+edition = "2021"
+
+[dependencies]
+itertools = "0.10.5"
+lazy_static = "1.4.0"
